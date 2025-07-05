@@ -9,7 +9,9 @@ const storeItems = {
     "Cereal": 3.75,
     "Chicken Breast": 6.00,
     "Pasta": 1.20,
-    "Tomato Sauce": 1.80
+    "Tomato Sauce": 1.80,
+    "Hubba Bubba": 0.50
+    
 };
 
 let initialBudget = 50.00;
