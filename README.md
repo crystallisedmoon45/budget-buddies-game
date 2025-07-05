@@ -28,6 +28,7 @@ Welcome to **Budget Buddies**, a fun and interactive web-based game designed to 
 5.  **Monitor Spending:** Watch your "Current Spent" and "Your Budget" (remaining funds) update as you add items.
 6.  **Stay Within Budget:** If adding an item would put you over budget, the game will alert you, and the item won't be added.
 7.  **Finish Shopping:** When you're done, click the "Finish Shopping" button to see your final summary.
+8.  If  you would like to play the game using the web, go to: https://crystallisedmoon45.github.io/budget-buddies-game/
 
 -----
 
