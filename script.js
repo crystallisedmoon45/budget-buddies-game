@@ -5,6 +5,7 @@ const storeItems = {
     "Bread": 2.20,
     "Milk": 1.50,
     "Eggs (dozen)": 3.00,
+    "Fish"": 1.00
     "Cheese": 4.50,
     "Cereal": 3.75,
     "Chicken Breast": 6.00,
