@@ -5,14 +5,11 @@ const storeItems = {
     "Bread": 2.20,
     "Milk": 1.50,
     "Eggs (dozen)": 3.00,
-    "Fish"": 1.00
     "Cheese": 4.50,
     "Cereal": 3.75,
     "Chicken Breast": 6.00,
     "Pasta": 1.20,
-    "Tomato Sauce": 1.80,
-    "Hubba Bubba": 0.50
-    
+    "Tomato Sauce": 1.80
 };
 
 let initialBudget = 50.00;
